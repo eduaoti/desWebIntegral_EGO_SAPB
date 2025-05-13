@@ -1,0 +1,8 @@
+Issue 2: Validación débil en registro de mascotas
+Descripción: El formulario permite registrar mascotas con campos vacíos o servicios no seleccionados.
+
+Solución esperada: Agregar validaciones estrictas y mensajes visuales.
+
+Prioridad: Media
+
+Asignado a: Andrea
